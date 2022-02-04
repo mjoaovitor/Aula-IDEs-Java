@@ -1,0 +1,19 @@
+Instalação OpenJDK Zulu
+
+- Fazer Download https://www.azul.com/downloads/?package=jdk
+- Criar pasta com nome JAVA em DISCO LOCAL/arquivos e programas
+- Descompactar arquivo dentro da pasta
+- Copiar endereço da pasta no computador EXEMPLO --> C:\Program Files\Java\zulu11.54.23-ca-jdk11.0.14-win_x64
+- Configurar Java Home --> Configuraçoes/Sistema/Sobre/Configurações Avançadas de Sistema
+- Propriedades de Sistema -> Avançado
+- Criar nova variavel de ambiente JAVA_HOME - Clicar em nova variavel de Sistema
+- Nome da Variavel: JAVA_HOME
+- Valor da Variavel: colocar endereço da pasta java criada no disco local --> EXEMPLO: C:\Program Files\Java\zulu11.54.23-ca-jdk11.0.14-win_x64
+- Configurar Path - Selecionar PATH e clicar em editar
+- Clicar em Novo e colocar o endereço da pasta JAVA no disco Local --> EXEMPLO:C:\Program Files\Java\zulu11.54.23-ca-jdk11.0.14-win_x64
+- Acrescentar \bin no final do endereço --> EXEMPLO: C:\Program Files\Java\zulu11.54.23-ca-jdk11.0.14-win_x64\bin
+- Clicar em mover para cima ate ficar em primeiro da lista
+- Abrir CMD e executar comando java --version
+- openjdk 11.0.14 2022-01-18 LTS
+  OpenJDK Runtime Environment Zulu11.54+23-CA (build 11.0.14+9-LTS)
+  OpenJDK 64-Bit Server VM Zulu11.54+23-CA (build 11.0.14+9-LTS, mixed mode)

@@ -1,0 +1,8 @@
+Compilar Arquivo Java
+
+- Abrir CMD
+- Entrar no diretório onde esta o arquivo .java EXEMPLO --> C:\Workspace\Dominando IDEs Java\Primeiro Programa
+- javac nome do arquivo EXEMPLO -->  javac PrimeiroPrograma.java
+- Arquivo compilado após comando
+- Conferir se foi gerado um arquivo .class na pasta de destino
+- Executar programa com comando java EXEMPLO --> java PrimeiroPrograma

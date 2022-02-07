@@ -1,0 +1,15 @@
+Instalação dos IDEs Java
+*Eclipse*
+- Baixar pelo site https://www.eclipse.org/downloads/
+- Abrir o arquivo e instalar o Eclipse IDE for Enterprise Java And Web Developers
+- Arquivo de instalaçao na pasta do OpenJDk/Zulu
+- Clicar em Lauch
+- Clicar em Lauch C:\Users\suporteinfra\eclipse-workspace
+
+*Intellij IDEA*
+- Baixar pelo site https://www.jetbrains.com/pt-br/idea/download/#section=windows
+- Ultimate versao paga - Community versao gratuita
+- Abrir instalador
+- Full Next
+- Marcar Installation Options (Todos)
+- JetBrains Install
